@@ -38,6 +38,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Javascript](https://www.javascript.com/)
 * [HTML]
 * [CSS]
+* [Crypto API CoinCap](https://docs.coincap.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
